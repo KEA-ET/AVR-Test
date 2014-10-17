@@ -41,4 +41,5 @@ int main(void)
 // Baldur added this comment
 }
 
-Created by Osvaldas Banys
+Created by Osvaldas Banys//Change made by Petru
+>>>>>>> pr/1
