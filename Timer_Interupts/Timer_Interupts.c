@@ -40,6 +40,10 @@ int main(void)
 	}
 // Baldur added this comment
 }
+<<<<<<< HEAD
+//Change made by Petru
+=======
 
 Created by Osvaldas Banys//Change made by Petru
 >>>>>>> pr/1
+>>>>>>> upstream/master
