@@ -40,3 +40,5 @@ int main(void)
 	}
 // Baldur added this comment
 }
+
+Created by Osvaldas Banys
